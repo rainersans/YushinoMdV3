@@ -22,7 +22,7 @@ let ssn = `〠 Dᴀʀɪ : ${name}\n⎙ Pᴇsᴀɴ : ${pesan}`
         let imgr = fla.getRandom()
         //Created By AL? Offc
        await conn.send3ButtonDoc(data.jid, tek, ssn, 'Balas', '.balasmenfess', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/_b4c00t4an_s3l3b',
+    mediaUrl: 'https://Instagram.com/rainertzyx',
     mediaType: 2, 
     description: sgc,
     title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
@@ -61,12 +61,12 @@ export default handler
 /* Made By FokusDotId (Fokus ID)
  * https://github.com/FokusDotId
  * Ingin bikin fitur tapi tidak bisa coding?
- * hubungi: https://wa.me/6281320170984
+ * hubungi: https://wa.me/6282133650902
  * Jangan lupa bawa udut minimal sukun🗿
  
  *Nᴜᴍᴘᴀɴɢ Nᴀᴍᴀ
- *Kᴀɴɢ Rᴇᴄᴏᴅᴇ : Aʟᴅɪ Lᴇsᴍᴀɴᴀ
- *Cʜᴀɴɴᴇʟ : AL? Offc
+ *Kᴀɴɢ Rᴇᴄᴏᴅᴇ : Rainer Ofc
+ *Cʜᴀɴɴᴇʟ : Rainer Tz
  
  *Minimal Jangan Di Hapos Anj
 */
