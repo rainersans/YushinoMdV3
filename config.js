@@ -81,7 +81,7 @@ global.sig = 'https://instagram.com/rainertzyx'
 global.sgh = 'https://github.com/' //github
 global.sgc = 'https://chat.whatsapp.com/Jbjygf6VdalEwE60WJHhsz' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/Rainer Tz'
+global.snh = 'https://youtube.com/RainerTz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '08966 0847 676'
@@ -207,8 +207,8 @@ global.rpg = {
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.zenzkey = 'b8040941f7'
-global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e6b
+global.zenzkey = 'cdb4034482'
+global.lolkey = '8623ea1bda894b19c7604afc' // PUNYA WAHID 357d3c85079c4e0818731e6b
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
